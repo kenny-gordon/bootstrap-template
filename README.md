@@ -3,6 +3,8 @@
 Use this Template as a way to quickly start any new project.
 All you get is this text and a mostly barebones HTML document.
 
+![alt text](https://github.com/kenny-gordon/bootstrap-template/blob/master/preview.jpg)
+
 **Contains:**
 
  - [Fontawesome](https://fontawesome.com/) **-** *5.9.0*
