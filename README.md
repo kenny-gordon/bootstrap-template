@@ -10,7 +10,7 @@ All you get is this text and a mostly barebones HTML document.
  - [Bootstrap](https://getbootstrap.com/) **-** *4.3.1*
 	- *Including* **-** [popper.js](https://popper.js.org/)
  - [DataTables](https://datatables.net/) **-** *1.10.18*
-	- *Including* **-** Including - Bootstrap 4 Style
+	- *Including* **-** Bootstrap 4 Style
  - [Chart](https://www.chartjs.org/) **-** *2.8.0*
 	- *Including* **-** [Moment.js](http://momentjs.com/)
 	
